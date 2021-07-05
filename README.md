@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doktorvatcon
+- 👋 Hi, I’m Viktor Minin
 - 👀 I’m interested in videogames, web.
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on 
