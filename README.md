@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor Minin
 - 👀 I’m interested in videogames, web.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me .
 
